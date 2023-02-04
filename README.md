@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ...
+
 - 📫 How to reach me: ...
 > Twitter [@iannjoroge120](https://twitter.com/iannjoroge120)
 > Portifolio [site](https://iannjoroge.netlify.app/)
